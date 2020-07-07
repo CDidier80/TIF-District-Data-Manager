@@ -1,0 +1,2 @@
+# TIF-District-Data-Manager
+This was a demo program written for a property tax solutions company. The purpose was to demonstrate the capabilities of custom programs to handle large-scale data entry, cleaning and general management. Note: this was my first Python project, and the code is old and amateur. View the overview of this project on YouTube at this link: https://www.youtube.com/watch?v=kENK6rLXjBE
